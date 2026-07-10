@@ -1,6 +1,7 @@
 # 基于 RK3506 的 EtherCAT 三轴云台实时运动控制系统
 
 ## 简介
+演示视频在b站：https://www.bilibili.com/video/BV1DkNj6jEhy/?spm_id_from=333.1387.homepage.video_card.click&vd_source=41b5f163a2fd84709cfb4dfc1e7713ef
 
 本项目基于 **RK3506**（三核 Cortex-A7，1.2GHz）+ **Linux PREEMPT_RT** 实时内核，通过 **SOEM** 开源协议栈自研 EtherCAT 主站，实现三轴伺服云台的 4ms 实时同步控制。
 
